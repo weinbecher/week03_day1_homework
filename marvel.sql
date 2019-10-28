@@ -51,7 +51,7 @@ INSERT INTO movies (title, year, show_time) VALUES ('Thor: Ragnarok', 2017, '22:
 INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:00');
 
 
-1.  Return ALL the data in the 'movies' table.
+-- 1.  Return ALL the data in the 'movies' table.
 
 SELECT * FROM movies;
 
